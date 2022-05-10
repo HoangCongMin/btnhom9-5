@@ -1,0 +1,155 @@
+@font-face {
+  src:url(https://fonts.google.com/specimen/Racing+Sans+One?query=racing);
+  font-family: "racing sans one";
+}
+#menu{
+  display: flex;
+  justify-content: space-between;
+  color: white;
+
+}
+#ml{
+  display: flex;
+}
+ul li{
+  margin: 20px;
+}
+#hedder{
+  background-image: url("moutain-bike.jpeg");
+}
+#tieude{
+  font-size: 60px;
+  color: white;
+text-align: center;
+ margin-top: 500px;
+
+}
+#body{
+  text-align: center;
+  margin: 20px;
+}
+.imgtong{
+  display: flex;
+  justify-content: center;
+flex-wrap: wrap;
+}
+
+#body h1{
+  margin-top: 80px;
+
+}
+.card-img{
+  width: 400px !important;
+  height: 200px !important;
+}
+.card-img2 {
+  width: 705px;
+  height: 420px;
+}
+.card {
+  padding: 10px;
+  border: none;
+}
+#hd1{
+display: flex;
+  flex-wrap: wrap;
+  /*justify-content: center;*/
+}
+#hd1 div{
+  margin:40px;
+}
+
+#imgbg{
+  width: 100%;
+  background: url("join-programme.jpeg") no-repeat center ;
+  background-size: cover;
+  height: 600px;
+
+
+}
+.im-ct{
+  margin: 30px;
+}
+
+#imgbg1{
+  height: 100%;
+
+  background-image: linear-gradient(180deg,#04020269 0%,#161616 100%);
+  opacity: 0.98;
+  display: flex;
+  align-items: flex-end;
+  color: white;
+  padding: 40px;
+
+
+}
+#icon{
+  font-size: 50px;
+}
+#td3{
+  display: flex;
+  justify-content: space-between;
+  margin:  90px;
+}
+#ft0{
+  width: 100%;
+  background: url("bike-hero.jpeg") no-repeat center fixed ;
+  background-size: cover;
+  height: 800px;
+
+
+}
+#ft1{
+  background-image: linear-gradient(180deg,#04020269 0%,#161616 100%);
+  opacity: 0.98;
+  width: 100%;
+  height: 100%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#ft{
+  display: flex;
+  background-color: black;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.ftend{
+margin: 30px;
+}
+.ftend h3{
+  color: white;
+
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+#ftt1{
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid grey;
+  background-color: black;
+
+
+}
+
+h1{
+  font-family: 'Racing Sans One',display;
+}
+
+.icon1{
+  font-size: 20px;
+  color: white;
+}
+
+#ftt1 p{
+  padding: 50px;
+  color: white;
+}
+
+
+
